@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "image": "assets/portfolio1.jpg",
+    "title": "This is a portfolio item title",
+    "github": "https://github.com",
+    "demo": "https://dribble.com/Alien_pixels"
+  },
+  {
+    "id": 2,
+    "image": "assets/portfolio2.jpg",
+    "title": "This is a portfolio item title",
+    "github": "https://github.com",
+    "demo": "https://dribble.com/Alien_pixels"
+  },
+  {
+    "id": 3,
+    "image": "assets/portfolio3.jpg",
+    "title": "This is a portfolio item title",
+    "github": "https://github.com",
+    "demo": "https://dribble.com/Alien_pixels"
+  },
+  {
+    "id": 4,
+    "image": "assets/portfolio4.jpg",
+    "title": "This is a portfolio item title",
+    "github": "https://github.com",
+    "demo": "https://dribble.com/Alien_pixels"
+  },
+  {
+    "id": 5,
+    "image": "assets/portfolio5.png",
+    "title": "This is a portfolio item title",
+    "github": "https://github.com",
+    "demo": "https://dribble.com/Alien_pixels"
+  },
+  {
+    "id": 6,
+    "image": "assets/portfolio6.jpg",
+    "title": "This is a portfolio item title",
+    "github": "https://github.com",
+    "demo": "https://dribble.com/Alien_pixels"
+  }
+]
